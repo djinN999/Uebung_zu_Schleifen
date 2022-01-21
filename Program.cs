@@ -50,7 +50,7 @@ namespace einfuehrungschleifen
 
 				if (rowseven < 25 && rowseven > 20){
 					rowseven += 12;
-                }
+            			}
 				Console.Write(rowseven + " ");
 			}
 		}
